@@ -2,4 +2,4 @@
 
 >Software Engineering
 
-![heroku](https://github.com/Alwanly/alwanly/blob/master/images/heroku.svg)
+![](https://github.com/Alwanly/alwanly/blob/master/images/java.svg)
