@@ -1,12 +1,21 @@
-# Hello, I'm Alwan
+<h1 align="center">
+Hello, I'm Alwan
+</h1>
 
->Backend Developer
+<p align="center">
+I'm passionate about Software Engineering especially Backend Development
+</p>
 
-### Programming Languages
-<img src = 'https://github.com/Alwanly/alwanly/blob/master/images/java.svg' height='30'/> <img src = 'https://github.com/Alwanly/alwanly/blob/master/images/javascript.svg' width='30'/> <img src = 'https://github.com/Alwanly/alwanly/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/Alwanly/alwanly/blob/master/images/php.svg' width='30'/><img src = 'https://github.com/Alwanly/alwanly/blob/master/images/mysql.svg' width='30'/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alwanly/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
+  <a href="https://twitter.com/Alwanley"><img src="https://img.shields.io/badge/Twitter-0089D6?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-### Technologies
-<img src = 'https://github.com/Alwanly/alwanly/blob/master/images/nodejs.svg' width='30'/> <img src = 'https://github.com/Alwanly/alwanly/blob/master/images/heroku.svg' width='30'/>
+</p>
 
-### Framework
-<img src = 'https://github.com/Alwanly/alwanly/blob/master/images/vuejs.svg' width='30'/> <img src = 'https://github.com/Alwanly/alwanly/blob/master/images/laravel.svg' width='30'/>
+
+
+### My Skill
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-F44336?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
